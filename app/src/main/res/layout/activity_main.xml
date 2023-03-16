@@ -39,5 +39,6 @@
         android:layout_gravity="center_horizontal"
         android:textSize="20sp"
         android:text="@string/roll" />
+<!--    字符串的信息存在res/values/string.xml-->
 
 </LinearLayout>
